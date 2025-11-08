@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import ShowCards from './components/ShowCards';
 import { useEffect, useState } from 'react';
